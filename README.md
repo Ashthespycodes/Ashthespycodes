@@ -128,12 +128,7 @@ class JujutsuSorcerer {
 
 <img src="hollow_purple_animation.gif" width="900" alt="Hollow Purple Animation"/>
 
-```
-    🔵 Lapse Blue ━━━━━━━━━━━━━━━━━━━━➤ ⬅━━━━━━━━━━━━━━━━━━━━ Reversal Red 🔴
-                                    💜
-                            HOLLOW PURPLE
-                         ∞ Infinite Destruction ∞
-```
+
 
 </div>
 
