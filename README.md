@@ -19,11 +19,11 @@ Computer Science & Engineering student at Manipal University Jaipur with a passi
 class Developer {
     public:
         string name = "Akhilesh";
-        string role = "Full Stack Developer";
+        string role = "Software Developer";
         vector<string> interests = {
             "Data Structures & Algos",
             "AIML",
-            "Web Development"
+            "Agentic Workflows"
         };
 };
 ```
